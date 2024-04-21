@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 file7 on remote
 =======
 file7 on local
 >>>>>>> 80761f8 (file7 on local)
+=======
+test file in remote repo
+>>>>>>> 4d9950f (Create file7.txt)
