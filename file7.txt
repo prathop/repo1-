@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file7 on remote
+=======
+file7 on local
+>>>>>>> 80761f8 (file7 on local)
